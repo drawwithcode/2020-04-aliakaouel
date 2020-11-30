@@ -17,7 +17,7 @@ let sketch0 = function(p0){
   p0.setup = function(){
     let initialCanvas = p0.createCanvas(windowWidth, windowHeight);
     initialCanvas.position(0, 0);
-    initialCanvas..style('z-index', '-5')
+    initialCanvas.style('z-index', '-5')
 
 
   }
